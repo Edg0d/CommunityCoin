@@ -31,6 +31,3 @@ Communities is a social platform that allows users to create and join communitie
 
 If you would like to contribute to the development of Communities, please follow the guidelines in the `CONTRIBUTING.md` file.
 
-## License
-
-Communities is released under the MIT License. See `LICENSE` for more information.
